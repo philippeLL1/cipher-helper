@@ -31,11 +31,11 @@ After completing the Solitaire Cipher assignment, I tought it would be fun to ma
     4. number of cards
     5. number of suits
 6. Example (from ed):
-  SEOMLURAMOKISHS \n
-  11012022 \n
-  1 \n
-  13 \n
-  2
+  SEOMLURAMOKISHS  
+  11012022   
+  1  
+  13  
+  2  
 7. This allows you to quickly copy & paste examples that you would like to try. You can use this to text your code on the fly without having to retype parameters individually. All you have to do is re-run main.java, click "input from text" and paste the paragraph
 
 ## Warnings
