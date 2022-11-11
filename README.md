@@ -15,12 +15,12 @@ After completing the Solitaire Cipher assignment, I tought it would be fun to ma
 
 ## How to Use the GUI
 1. Run main.java
-2. Fill in the following text boxes
-  - message: A string that you would like to use as input
-  - seed: An int to use as the seed
-  - shuffles: An int to choose how many time to shuffle the deck before generating keystream values
-  - number of cards: An int between 1 and 13 (inclusively) to choose the number of cards per suit in the deck
-  - number of suits: An int between 1 and 4 (inclusively) to choose the number of suits in the deck
+2. Fill in the following text boxes:
+    - message: A string that you would like to use as input
+    - seed: An int to use as the seed
+    - shuffles: An int to choose how many time to shuffle the deck before generating keystream values
+    - number of cards: An int between 1 and 13 (inclusively) to choose the number of cards per suit in the deck
+    - number of suits: An int between 1 and 4 (inclusively) to choose the number of suits in the deck
 3. From the toggle menu, choose Encode or Decode and press "Go!"
 4. Alternatively, you can press "input from text", which will open another window
 5. This window lets you enter parameters in a single paragraph, one parameter per line
