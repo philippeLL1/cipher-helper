@@ -99,7 +99,7 @@ public class textInput {
         int card_index = (int) (Math.random() * (MAX_CARD_INDEX - MIN_CARD_INDEX + 1) + MIN_CARD_INDEX);
         String card_path = "Card" + Integer.toString(card_index) + ".png";
 
-        ImageIcon ace = new ImageIcon("src/assignment2/media/" + card_path);
+        ImageIcon ace = new ImageIcon("src/assignment2/images/" + card_path);
         JOptionPane.showMessageDialog(textPanel, result, "Result", JOptionPane.INFORMATION_MESSAGE, ace);
     }
 
