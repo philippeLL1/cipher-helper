@@ -25,11 +25,11 @@ After completing the Solitaire Cipher assignment, I tought it would be fun to ma
 4. Alternatively, you can press "input from text", which will open another window
 5. This window lets you enter parameters in a single paragraph, one parameter per line
 6. Use the following format:
-  1. message
-  2. seed
-  3. shuffles
-  4. number of cards
-  5. number of suits
+    1. message
+    2. seed
+    3. shuffles
+    4. number of cards
+    5. number of suits
 6. Example (from ed):
   SEOMLURAMOKISHS
   11012022
