@@ -30,7 +30,7 @@ After completing the Solitaire Cipher assignment, I tought it would be fun to ma
     3. shuffles
     4. number of cards
     5. number of suits
-6. Example (from ed):
+6. Example (from ed):  
   SEOMLURAMOKISHS  
   11012022   
   1  
@@ -40,7 +40,7 @@ After completing the Solitaire Cipher assignment, I tought it would be fun to ma
 
 ## Warnings
 - This GUI does some input validation, but doesn't help your code in any other way
-  - It only validate the integer values, because without this the GUI would crash very easily.
+  - It validates the integer values, because without this the GUI would crash very easily.
   - It does not validate the "message" text box, as this is part of the assignment
 - Use this GUI at your own risk. I ran multiple examples, and I had correct results each time. However, I cannot guarantee that my code is 100% accurate. If using my GUI somehow leads to you missing a bug in your code (I highly doubt this would happen), I unfortunately cannot be held responsible.
 - It might crash! The GUI is generally stable, but the code is still messy, and it might crash on some inputs.
